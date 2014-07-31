@@ -1,0 +1,24 @@
+Dear Hiring Manager:
+
+This letter is to express my interest in discussing the Data Scientist Intern position posted on the Company website. The opportunity presented in this listing is very appealing, and I 
+believe that my strong technical experience and education will make me a very competitive candidate for this position. 
+
+The key strengths that I possess for success in this position include, but are not limited to, the following: 
+
+	•	I have experiences working on large data sets and experiences with AWS. 
+	•	I am very familiar with statistical basics and concepts. Also I'm proficient in using languages like R and Python to do data analysis. 
+	•	I possess knowledge in the domain of machine learning, and finished several projects related to predictive modeling. Specific algorithms in machine learning I have programmed include Neural-Network, SVM, Random Forest, Gradient Boosting and etc.
+	•	I have taken many classes related to data science in UCLA. Also I'm actively taking online courses in Coursera and Udacity out of personal interests.
+	•   Most importantly, I find data science very exciting to me, and I'm sure I will enjoy a lot working in this area.
+
+Besides, as a MS candidate in Computer Science, I also have a full understanding of the full life cycle of a software development project. I have experiences in learning and excelling at new technologies as needed. My experiences in software engineering has empowered me with the following: 
+
+	•	Database knowledge(SQL and NONSQL) and distributed computing (MapReduce).
+	•	Application and requirement analysis 
+	•	Programming both new applications and maintenance work 
+	•	Problem isolation and analysis 
+	•	Process improvement and documentation 
+
+Please see my resume for additional information on my experiences. 
+
+I can be reached via email at wuxu@cs.ucla.edu. Thank you for your time and consideration.
